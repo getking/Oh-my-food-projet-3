@@ -260,7 +260,7 @@
 
         &__wrapper-icon--1 {
             background: -webkit-linear-gradient($color-secondary, $color-primary);
-            -webkit-background-clip: text;
+            background-clip: text;
             -webkit-text-fill-color: transparent;
         }
 
