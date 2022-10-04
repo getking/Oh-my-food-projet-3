@@ -259,9 +259,9 @@
         }
 
         &__wrapper-icon--1 {
-            background: -webkit-linear-gradient($color-secondary, $color-primary);
+            background:linear-gradient($color-secondary, $color-primary);
             background-clip: text;
-            -webkit-text-fill-color: transparent;
+            text-emphasis-color: transparent;
         }
 
         &__wrapper-icon--2 {
